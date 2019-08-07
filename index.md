@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is my Practice Github page - stay tuned for updates soon
 
 You can use the [editor on GitHub](https://github.com/kathryndalton/kathryndalton.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
