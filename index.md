@@ -5,7 +5,7 @@
 ### Bloomberg School of Public Health
 ### Johns Hopkins University
 
-See [PhD Dissertation] (https://kathryndalton.github.io/DefensePresentation_to.share_small.pdf) 
+See [PhD Dissertation](https://kathryndalton.github.io/DefensePresentation_to.share_small.pdf) 
 
 Syntax highlighted code block
 
