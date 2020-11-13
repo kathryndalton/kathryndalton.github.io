@@ -6,6 +6,7 @@
 ### Johns Hopkins University
 
 See [PhD Dissertation](https://kathryndalton.github.io/DefensePresentation_to.share_small.pdf) 
+see [Markdown Example](https://www.github.com/kathryndalton/r-script-demo/practice_markdown.md)
 
 Syntax highlighted code block
 
